@@ -2,39 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tidalhss-star.github.io/bp-mapo-night/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <url>
-    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/guide-003.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/interview-002-18g4ahd.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/myth-001-18g4ahd.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/review-001.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-mapo-night/posts/review-002.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-mapo-night/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

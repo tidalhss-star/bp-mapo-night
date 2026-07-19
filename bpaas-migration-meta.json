@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "importedAt": "2026-07-03T07:38:38.932Z",
+  "campaignId": null,
+  "slug": "mapo-night",
+  "adoptExisting": true,
+  "sourceType": "urlSnapshot",
+  "sourceUrl": "https://mapo-night-guide.pbn-builder.xyz/",
+  "copiedFiles": 2,
+  "copiedBytes": 9638,
+  "fetchedAssets": 1,
+  "skippedAssets": 0,
+  "skippedSymlinks": 0
+}
